@@ -28,7 +28,7 @@ This started out with me noticing that I had a few extra devices laying around, 
 
 As of right now I have tested this app on Android Lollipop, Nougat, and Oreo; with ARM 64, ARM 86, and Intel Atom i686 CPU architechures.
 
-[It runs on everythin....](https://i.imgur.com/20JnO97.jpg)
+[It runs on everything....](https://i.imgur.com/20JnO97.jpg)
 
 It runs on TVs, Tablets, and of course phones...
 Everything except iOS :D
