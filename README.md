@@ -11,18 +11,18 @@ This started out with me noticing that I had a few extra devices laying around, 
 
 # Features
 
+* The fastest mining on the market (by roughly %20 on high end phones when compared to MinerGate)
 * It has an OLED friendly mode
-* Allows you to enter you wallet from a QR code
-* The fastest mining on the market (by roughly %20 on high end phones)
-* Allows you to mine to your own pools
-* Can mine any CryptoNight coin, but has built in support for Monero, Electroneum, Aeon, Sumokoin, and Bytecoin (and soon to be MoneroV).
+* Allows you to enter your wallet address from a QR code
+* Allows you to mine to which ever pool you want to (again, being compared to MinerGate)
+* Can mine any CryptoNight coin, but has built in support for Monero, Electroneum, Aeon, Sumokoin, and Bytecoin pools(and soon to be MoneroV).
 * Saves your configurations so they do not need to constantly be re-entered
-* Highly stable (my 5 Android devices have been running for over a week, 24/7 without a problem)
+* VERY Stable (my 5 Android devices have been running for over a week, 24/7 without a problem)
 * Works with the screen off
-* Clean interface
-* Shows an estimated progress in the current share
-* You can un-tick the donation option
-* Shows your current balance for the supported pools you can mine to
+* Clean interface (this cannot be underestimated)
+* Shows an estimated progress in the current share (so you know it is making progress)
+* You can un-tick the donation option (though, you could also not ;D )
+* Shows your current balance for the supported pools you can mine to (Supports +10 pools across the 5 coins)
 
 # What it runs on
 
