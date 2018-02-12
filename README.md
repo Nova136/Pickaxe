@@ -37,7 +37,7 @@ It will be! Soon! I am 100% for open source code, and this is no exception. Howe
 
 As far as I know the XMRig GPL does not apply to this app. I have personally contacted the developers of the XMRig software, and they aggred that since I am not using the XMRig source code in the app itself, and I have published the source code for the binaries that come with the app, that I am fine with keeping the source code for the app close to my chest.
 
-Though, as I said, i will be releasing it :D Then you all can change / modify it however you want and come compete with me :)
+Though, as I said, I will be releasing it :D Then you all can change / modify it however you want and come compete with me :)
 
 # If you want you pool added into the app
 Send me an email here: nanobytesinc@gmail.com 
