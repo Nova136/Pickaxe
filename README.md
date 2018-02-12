@@ -1,7 +1,7 @@
 # Pickaxe
 An XMRig based, Android Mobile Miner
 
-![The app runs on everything from TVs to Tablets](images/1.jpg?raw=true "Title")
+![Can mine ALL CryptoNight coins](images/1.png?raw=true "Title")
 
 # What is this project?
 
@@ -21,6 +21,15 @@ This started out with me noticing that I had a few extra devices laying around, 
 * Shows an estimated progress in the current share
 * You can un-tick the donation option
 * Shows your current balance for the supported pools you can mine to
+
+# What it runs on
+
+As of right now I have tested this app on Android Lollipop, Nougat, and Oreo; with ARM 64, ARM 86, and Intel Atom i686 CPU architechures.
+
+[Imgur](https://i.imgur.com/20JnO97.jpg)
+
+It runs on TVs, Tablets, and of course phones...
+Everything except iOS :D
 
 # Is it open soruce?
 
