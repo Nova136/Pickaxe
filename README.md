@@ -1,7 +1,7 @@
 # Pickaxe
 An XMRig based, Android Mobile Miner
 
-[The app runs on everything from TVs to Tablets](images/1.jpg?raw=true "Title")
+![The app runs on everything from TVs to Tablets](images/1.jpg?raw=true "Title")
 
 
 #What is this project?
