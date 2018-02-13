@@ -5,6 +5,8 @@ An XMRig based, Android Mobile Miner
 ![Clean interface](images/2.png?raw=true "Title")
 ![OLED Friendly Mode](images/3.png?raw=true "Title")
 
+**Note:** There is a known issue where this crashes on phones with an Exynos processor (thin Galaxy S6/7/8 purchased from outside the U.S.). I am working on fixing it!
+
 # What is this project?
 
 This started out with me noticing that I had a few extra devices laying around, and a curiousity to see if I could put them to work. This was first realized with my project here: [miners](https://github.com/NanoBytesInc/miners), but that was cumbersome and a little scary for the uninitiated. So now we are here, with an app that wraps up all of the functionality ofd the last project with some extra features that actually put it notably ahead of the other mobile miners on the market. 
