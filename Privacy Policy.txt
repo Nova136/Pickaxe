@@ -1,0 +1,12 @@
+Pickaxe Privacy Policy
+
+Types of data that are collected
+We collect user analytics via FireBase, and this includes basic demographics.
+
+We allow users to login with their Facebook, Google, and LinkedIn accounts so that we can
+get their emails.
+
+We also allow them to just enter their emil directly.
+
+All of our information will remain internal, and will not be sold or released,
+except our analytics. This includes number of users, age range, etc.
