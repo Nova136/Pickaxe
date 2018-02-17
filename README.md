@@ -5,7 +5,8 @@ An XMRig based, Android Mobile Miner
 ![Clean interface](images/2.png?raw=true "Title")
 ![OLED Friendly Mode](images/3.png?raw=true "Title")
 
-**Note:** There is a known issue where this crashes on phones with an Exynos processor (thin Galaxy S6/7/8 purchased from outside the U.S.). I am working on fixing it!
+# Play Store
+https://play.google.com/store/apps/details?id=com.nanobytes.pickaxe
 
 # What is this project?
 
