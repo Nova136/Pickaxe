@@ -38,11 +38,7 @@ Everything except iOS :D
 
 # Is it open soruce?
 
-It will be! Soon! I am 100% for open source code, and this is no exception. However, my intention for this app would be to add it to the PLay Store, and I would be disapointed if this opertunity is "sniped" by an opertunistic stranger. Thus, I will release the source code for this app as soon as I have secured a spot in the Play Store.
-
-As far as I know the XMRig GPL does not apply to this app. I have personally contacted the developers of the XMRig software, and they aggred that since I am not using the XMRig source code in the app itself, and I have published the source code for the binaries that come with the app, that I am fine with keeping the source code for the app close to my chest.
-
-Though, as I said, I will be releasing it :D Then you all can change / modify it however you want and come compete with me :)
+No... I was intending to release the source code for this app, but the scary number of people who have asked me for help inserting miners into their own arbitrary apps (fitness trackers, crypto trackers, etc) has made me realise that releasing this code would be tantamount to releasing malware into the Android Ecosystem. I do not want that.
 
 # If you want you pool added into the app
 Send me an email here: nanobytesinc@gmail.com 
