@@ -3,7 +3,7 @@ An XMRig based, Android Mobile Miner
 
 ![Can mine ALL CryptoNight coins](images/1.png?raw=true "Title")
 ![Clean interface](images/2.png?raw=true "Title")
-![OLED Friendly Mode](images/3.png?raw=true "Title")
+![User friendly Settings](images/3.png?raw=true "Title")
 
 # Note
 As of right now this is not finished. I am releasing it in this state because I am worried I may not ever finish it, and I don't want what I have done to go to waste. If you have suggestions/errors/questions:
